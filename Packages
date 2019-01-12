@@ -10,4 +10,4 @@ Section: System
 Filename: ./Debs/tsclients.deb
 Size: 17092
 MD5sum: E594F7E2D8EB5BD6184B3C1177DF170E
-Depends: kr.iolate.simulatetouch,libSimulateKeyboard,com.rbt.useragentchanger
+Depends: kr.iolate.simulatetouch
