@@ -1,6 +1,6 @@
 Package: com.tms.tsclients
 Name: TSClients
-Version: 1.0
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: TSClients for IOS Model 10.0 - 10.3.3
 Maintainer: TSClients <tms@gmail.com>
