@@ -9,5 +9,5 @@ Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./Debs/tsclients.deb
 Size: 17092
-MD5sum: E594F7E2D8EB5BD6184B3C1177DF170E
+MD5sum: e594f7e2d8eb5bd6184b3c1177df170e
 Depends: kr.iolate.simulatetouch
