@@ -8,6 +8,6 @@ Author: TMS <tms@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./Debs/tsclients.deb
-Size: 17788
-MD5sum: 2c46df002b1fdf57210a61d2440236ea
+Size: 17842
+MD5sum: 537a8e88d3115b4a93daf586e9f1498f
 Depends: kr.iolate.simulatetouch
