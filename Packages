@@ -1,0 +1,13 @@
+Package: com.tms.tsclients
+Name: TSClients
+Version: 0.1
+Architecture: iphoneos-arm
+Description: TSClients for IOS Model 10.0 - 10.3.3
+Maintainer: TSClients <tms@gmail.com>
+Author: TMS <tms@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: System
+Filename: ./Debs/tsclients.deb
+Size: 17788
+MD5sum: 2c46df002b1fdf57210a61d2440236ea
+Depends: kr.iolate.simulatetouch
